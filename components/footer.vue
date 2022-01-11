@@ -1,12 +1,12 @@
 <template>
-    <footer class="px-96 py-36">
+    <footer class="px-96 py-16 bg-black bg-opacity-75">
         <div>
-            <h1 class="text-2xl text-center font-bold">Yhteystiedot</h1>
+            <h1 class="text-2xl text-center font-bold">YHTEYSTIEDOT</h1>
         </div>
 
         <div class="grid grid-cols-1 text-center">
             <h2 class="mt-10 text-lg">Dataline Group Oy</h2>
-            <p class="mt-1">Lehtikuusentie 5,<br />26100 Rauma<br />2354053-6</p>
+            <p class="mt-1">Petäjäpolku 11-15,<br />37310 Nokia<br />2354053-6</p>
         </div>
 
         <div class="grid grid-cols-2 text-center">
