@@ -2,7 +2,7 @@
     <div class="text-white w-full h-full bg-no-repeat bg-cover bg-fixed" style="background-image: url('https://www.dataline.fi/images/dataline-1080.webp')">
         <nuxt-link
 			id="logo"
-			class="block sm:inline-block w-40 py-5 px-5"
+			class="block sm:inline-block w-48 py-5 px-5"
 			to="/"
 			rel="home"
 		>
