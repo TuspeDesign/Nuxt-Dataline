@@ -1,5 +1,5 @@
 <template>
-    <footer class="px-96 py-32 bg-black bg-opacity-75">
+    <footer class="py-32 bg-black bg-opacity-75">
         <div>
             <h1 class="text-3xl text-center font-extrabold">YHTEYSTIEDOT</h1>
         </div>
