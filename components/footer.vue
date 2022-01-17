@@ -9,8 +9,8 @@
             <p class="mt-1">Petäjäpolku 11-15,<br />37310 Nokia<br />2354053-6</p>
         </div>
 
-        <div class="grid grid-cols-2 text-center">
-            <div class="text-right px-4">
+        <div class="grid grid-cols-1 sm:grid-cols-2 text-center">
+            <div class="text-center sm:text-right px-4">
                 <h2 class="mt-10 text-lg font-bold"><a class="hover:underline" href="https://tuspe.com/">Timo Anttila</a></h2>
                 <p class="mt-1">Myynti ja toteutukset,<br>
                     <a class="hover:underline" href="tel:+358407746121">0400 273 150</a><br>
@@ -18,7 +18,7 @@
                 </p>
             </div>
 
-            <div class="text-left px-4">
+            <div class="text-center sm:text-left px-4">
                 <h2 class="mt-10 text-lg font-bold"><a class="hover:underline" href="https://molentum.fi/">Mika Lähteenmäki</a></h2>
                 <p class="mt-1">Myynti ja asiakaspalvelu,<br>
                     <a class="hover:underline" href="tel:+358400273150">0400 273 150</a><br>
