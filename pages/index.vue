@@ -61,5 +61,25 @@
 </template>
 
 <script>
-	export default {};
+	export default {
+		data() {
+			return {
+				name: "tekstit",
+				content: "jotain",
+				images: [
+					{name:"verkkokaupat",link:"https://www.dataline.fi/images/palvelumme-verkkokaupat-320.webp"},
+					{name:"urheiluseurat",link:"https://www.dataline.fi/images/palvelumme-urheiluseurat-320.webp"},
+					{name:"kumppanit",link:"https://www.dataline.fi/images/uudet-kumppanit-320.webp"}
+				],
+				backgrounds:  [
+					{name:"yksi",bg: "datalineyksi"},
+					{name:"kaksi",bg: "datalinekaksi"}
+				],
+				buttons: [
+					{name:"Soita",link:"tel:+358407746121"},
+					{name:"Viesti",link:"mailto:info@tuspe.com"}
+				],
+			};
+		},
+	};
 </script>

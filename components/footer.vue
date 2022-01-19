@@ -13,7 +13,7 @@
             <div class="text-center sm:text-right px-4">
                 <h2 class="mt-10 text-lg font-bold"><a class="hover:underline" href="https://tuspe.com/">Timo Anttila</a></h2>
                 <p class="mt-1">Myynti ja toteutukset,<br>
-                    <a class="hover:underline" href="tel:+358407746121">0400 273 150</a><br>
+                    <a class="hover:underline" href="tel:+358407746121">040 774 6121</a><br>
                     <a class="hover:underline" href="mailto:info@tuspe.com">info@tuspe.com</a>
                 </p>
             </div>
